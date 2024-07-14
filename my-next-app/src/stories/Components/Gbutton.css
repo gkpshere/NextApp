@@ -1,0 +1,32 @@
+
+.nav-connect{
+    font-size: 20px;
+    padding: 20px 40px;
+    border-radius: 50px;
+    background: linear-gradient(270deg,#e2ddff .86%,#c478da 102.06%);
+    color: black;
+    cursor: pointer;  
+    transition: 0.5s; 
+}
+
+.nav-connect-sec{
+    font-size: 20px;
+    padding: 20px 40px;
+    border-radius: 50px;
+    background: linear-gradient(270deg,#e2ddff .86%,#78abda 102.06%);
+    color: black;
+    cursor: pointer;  
+    transition: 0.5s; 
+}
+.nav-connect:hover{
+    transform: scale(1.05);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
